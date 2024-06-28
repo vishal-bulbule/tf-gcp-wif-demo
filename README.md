@@ -1,5 +1,7 @@
 # Workload Identity Federation
 
+This repository provides a comprehensive guide and sample code to establish Workload Identity Federation (WIF) in Google Cloud Platform (GCP) for securely connecting external workloads (e.g., GitHub Actions workflows) to GCP resources
+
 Workload Identity Federation (WIF) in Google Cloud Platform (GCP) is a security feature that allows your external workloads running outside of GCP to access GCP resources without needing to manage long-lived service account keys. It provides a more secure and manageable alternative to traditional service account key-based authentication.
 
 You can find more details about enabling keyless authentication from GitHub Actions [here](https://cloud.google.com/blog/products/identity-security/enabling-keyless-authentication-from-github-actions).
