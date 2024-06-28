@@ -6,6 +6,8 @@ Workload Identity Federation (WIF) in Google Cloud Platform (GCP) is a security 
 
 You can find more details about enabling keyless authentication from GitHub Actions [here](https://cloud.google.com/blog/products/identity-security/enabling-keyless-authentication-from-github-actions).
 
+Refer youtube Video for this project
+ [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/psm98noY-JM?si=Y8YI8p4-BbwcSYJC)
 
 ![image](https://github.com/vishal-bulbule/tf-gcp-wif-demo/assets/143475073/99126df6-bd66-4b10-a4f3-1fdc42670535)
 
